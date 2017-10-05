@@ -1,0 +1,20 @@
+Thanks for downloading and checking out my project.
+
+Unfortunately, I've decided to discontinue work on the project and focus on other ones, which all should be stored on my github :)
+
+The main reason I've decided to discontinue this project is mainly due to a quality of content issue.
+
+How do you know how much food you've eaten? It's difficult to accurately input how much food you've eaten to calculate nutritional value. 
+On another note, the database is limited and would incur additional costs to have a complete nutritional database.
+
+The closest solution is to use standardized meal portions, eg. One portion of fruit/ one portion of meat. This still suffered from the issue of a lack of complete database, and is a rough approximation at best.
+
+
+
+
+To do List
+- Change string input to a button, no clue what I was thinking when string matching food rather than a button input
+- Reformat UI to be more concise, also its ugly at the moment 
+- Add more nutritional value standards for other audience demographics
+- Enable users to set their goals for their own desired nutritional values
+- Add feature to enable export of user's daily values

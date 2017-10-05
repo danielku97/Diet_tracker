@@ -1,0 +1,23 @@
+Welcome to the Diet Tracker Program! Author - Daniel Ku
+
+Due to this program being a prototype, some things are needed to be noted when using this application.
+
+1) Only food on the spreadsheet will be allowed, you can use the view food button to see which foods are availible for input. If what you ate is not on the list, please choose whatever is closest and type it in exactly as shown.
+
+2) The program only takes into account one day, so only input food you've eaten for one day only and restart the program for a new day.
+
+3) Each food item entered is automatically one serving. If for example, you ate a lot of apple pie, you may have to enter it in 2 or 3 times.
+
+4) The user values are assumed for a 25-30 year old male with no special health needs. 
+
+
+On the main screen, you'll see several buttons.
+Instructions - The button that should have brought you here, opens a txt file containing instructions.
+View Food - See a list of food catagories, then selecting on of those buttons leads to a list of actual food items. 
+Compare Diet - Compare your daily values to a recommended daily values chart.
+
+How to use this program!
+Press the view foods button to find a food similar to the one you have eaten.
+Submit that food through the text field.
+After submitting all your food for one day, press the compare diet button.
+See which nutritional fields are too high or too low, and adjust!
